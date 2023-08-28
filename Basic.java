@@ -16,12 +16,6 @@ public class Basic {
 	    System.out.println("ele " + month_day[i]);
 	}
 	
-	int month[]= {1,2,3,4};           //declaration
-	for (int i = 0; i < month.length; i++) {
-	    System.out.println("ele " + month[i]);
-	}
-	double month1[]= {10.1,10.2,10.3};
-	System.out.println(month1[1]/5);
 	
 	
 	
